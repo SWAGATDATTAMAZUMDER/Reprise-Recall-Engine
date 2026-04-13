@@ -1,4 +1,4 @@
-# REPRISE: AI-Driven Mastery Engine
+# REPRISE: AI-Driven flashcard based active recall Engine
 
 **Reprise** is a high-performance study platform designed for complex sciences (Mathematics, Biology, Physics, Chemistry). Unlike standard flashcard apps, Reprise utilizes a **Three-Stage Cognitive Reveal** system and the **SM-2 Spaced Repetition Algorithm** to transform passive reading into permanent neural mastery.
 
