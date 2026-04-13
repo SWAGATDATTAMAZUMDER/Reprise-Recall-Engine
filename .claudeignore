@@ -1,0 +1,31 @@
+# Ignore heavy build and dependency folders
+node_modules/
+.next/
+out/
+build/
+
+# Ignore large media/document assets
+public/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Ignore lock files and git history
+package-lock.json
+.git/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore generated/compiled files
+*.min.js
+*.map
+
+# Ignore test snapshots
+__snapshots__/
+
+# Ignore env files (also for security)
+.env*
