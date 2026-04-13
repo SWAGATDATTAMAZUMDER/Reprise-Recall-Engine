@@ -95,4 +95,4 @@ We don't just show cards; we manage your memory. The platform visualizes the mas
 
 ## Why "Reprise"?
 
-In music, a _reprise_ is a return to a theme. In learning, it is the return to a concept that turns a temporary thought into a permanent skill. Reprise was built for the student who doesn't just want to pass the exam, but wants to **Master the Material.**
+As the name suggests, the goal of this project is to ensure even in learning, it is the return to a concept that turns a temporary thought into a permanent skill. Reprise was built for the student who doesn't just want to memorize, but wants to **Master the Material.**
